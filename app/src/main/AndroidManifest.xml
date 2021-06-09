@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FucapiEad">
         <activity
+            android:name=".CursoActivity"
+            android:exported="true" />
+        <activity
             android:name=".LoginActivity"
             android:exported="true" />
         <activity
