@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TCC/FucapiEad/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
         <entry key="..\:/TCC/FucapiEad/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/TCC/FucapiEad/app/src/main/res/layout/activity_splash.xml" value="0.24166666666666667" />
       </map>
     </option>
   </component>
